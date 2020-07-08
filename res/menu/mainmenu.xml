@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/pick_image"
+        android:icon="@android:drawable/ic_menu_crop"
+        android:showAsAction="ifRoom"
+        android:title="@string/from_gallery"
+        android:visible="false" />
+    <item
+        android:id="@+id/list_breeds"
+        android:title="@string/list_breeds" />
+    <item
+        android:id="@+id/action_about"
+        android:title="@string/about_menu" />
+    <item
+        android:id="@+id/action_exit"
+        android:title="@string/exit_menu" />
+</menu>

@@ -1,0 +1,94 @@
+
+def buildFor = 'armabi-v7a'
+
+
+project.buildDir = 'gradleBuild'
+getProject().setBuildDir('gradleBuild')
+
+buildscript {
+    repositories {
+        google()
+        jcenter()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.4.2'
+        classpath 'org.apache.httpcomponents:httpclient:4.5.6'
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        maven { url "https://jitpack.io" }
+        jcenter()
+    }
+}
+
+
+project.ext.ASSET_DIR = projectDir.toString() + '/assets'
+
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 29
+    buildToolsVersion '28.0.3'
+
+    defaultConfig {
+        applicationId = 'com.jstappdev.dbclf'
+        minSdkVersion 21
+        targetSdkVersion 29
+
+        versionCode 85
+        versionName "39"
+    }
+
+    if (buildFor == 'armabi-v7a') {
+        defaultConfig {
+            ndk {
+                abiFilters 'armeabi-v7a'
+            }
+        }
+    }
+    if (buildFor == 'arm64-v8a') {
+        defaultConfig {
+            ndk {
+                abiFilters 'arm64-v8a'
+            }
+        }
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+
+    sourceSets {
+        main {
+            java {
+                srcDir 'src'
+            }
+
+            manifest.srcFile 'AndroidManifest.xml'
+            resources.srcDirs = ['src']
+            aidl.srcDirs = ['src']
+            renderscript.srcDirs = ['src']
+            res.srcDirs = ['res']
+            assets.srcDirs = [project.ext.ASSET_DIR]
+            jniLibs.srcDirs = ['libs']
+        }
+
+        debug.setRoot('build-types/debug')
+        release.setRoot('build-types/release')
+    }
+    compileOptions {
+        targetCompatibility 1.8
+        sourceCompatibility 1.8
+    }
+}
+
+
+dependencies {
+    implementation 'org.tensorflow:tensorflow-android:1.8.0'
+    implementation 'com.github.PhilJay:MPAndroidChart:v3.0.3'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+}

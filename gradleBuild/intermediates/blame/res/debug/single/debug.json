@@ -1,0 +1,626 @@
+[
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\6e54e8ae9b552357c230c2980ed0be52\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_pppp.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxhdpi\\pppp.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_launch.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-anydpi-v26\\launch.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\6e54e8ae9b552357c230c2980ed0be52\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_pppp.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xhdpi\\pppp.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\6e54e8ae9b552357c230c2980ed0be52\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\506d32460f3a7365e79ac3c5e16fad68\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\6e54e8ae9b552357c230c2980ed0be52\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\6e54e8ae9b552357c230c2980ed0be52\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-mdpi_pppp_round.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-mdpi\\pppp_round.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\6e54e8ae9b552357c230c2980ed0be52\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_list_group.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\layout\\list_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-mdpi_launch_round.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-mdpi\\launch_round.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-hdpi_cam.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-hdpi\\cam.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\6e54e8ae9b552357c230c2980ed0be52\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\506d32460f3a7365e79ac3c5e16fad68\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_pppp_round.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-anydpi-v26\\pppp_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_camera_icon.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\drawable-xxhdpi\\camera_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\6e54e8ae9b552357c230c2980ed0be52\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_cam.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxhdpi\\cam.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_side_index_item.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\layout\\side_index_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\menu_mainmenu.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\menu\\mainmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ppppk_foreground.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxhdpi\\ppppk_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_kk.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxxhdpi\\kk.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ppppk.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-mdpi\\ppppk.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_cam.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxxhdpi\\cam.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_launch_round.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-anydpi-v26\\launch_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-mdpi_cam.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-mdpi\\cam.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ppppk.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-anydpi-v26\\ppppk.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\506d32460f3a7365e79ac3c5e16fad68\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\6e54e8ae9b552357c230c2980ed0be52\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\6e54e8ae9b552357c230c2980ed0be52\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-mdpi_gal.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-mdpi\\gal.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-hdpi_pppp_round.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-hdpi\\pppp_round.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-mdpi_kk.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-mdpi\\kk.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_gal_foreground.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxxhdpi\\gal_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_kk.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xhdpi\\kk.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-hdpi_gal.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-hdpi\\gal.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\6e54e8ae9b552357c230c2980ed0be52\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ppp.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xhdpi\\ppp.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-hdpi_launch.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-hdpi\\launch.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-hdpi_launch_round.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-hdpi\\launch_round.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\6e54e8ae9b552357c230c2980ed0be52\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\6e54e8ae9b552357c230c2980ed0be52\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\506d32460f3a7365e79ac3c5e16fad68\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_gal.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxxhdpi\\gal.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ppp.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxxhdpi\\ppp.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable_launch_background.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\drawable\\launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ppppk_foreground.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxxhdpi\\ppppk_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xhdpi_camera_icon.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\drawable-xhdpi\\camera_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_gal.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-anydpi-v26\\gal.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_launch_round.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxxhdpi\\launch_round.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_launch.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xhdpi\\launch.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_gal_round.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxxhdpi\\gal_round.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable_button_background_selector.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\drawable\\button_background_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\6e54e8ae9b552357c230c2980ed0be52\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable_gal_background.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\drawable\\gal_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_gal_round.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxhdpi\\gal_round.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-mdpi_launch_foreground.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-mdpi\\launch_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_launch_foreground.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxxhdpi\\launch_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\6e54e8ae9b552357c230c2980ed0be52\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\6e54e8ae9b552357c230c2980ed0be52\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-hdpi_kk.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-hdpi\\kk.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\506d32460f3a7365e79ac3c5e16fad68\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\anim_slide_out.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\anim\\slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_gal.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xhdpi\\gal.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_launch_foreground.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xhdpi\\launch_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_kk.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxhdpi\\kk.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi_camera_icon.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\drawable-hdpi\\camera_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_launch.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxhdpi\\launch.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ppppk_foreground.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xhdpi\\ppppk_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_gal_round.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xhdpi\\gal_round.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-mdpi_gal_foreground.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-mdpi\\gal_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ppppk.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-hdpi\\ppppk.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\6e54e8ae9b552357c230c2980ed0be52\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ppp.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-mdpi\\ppp.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ppppk.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xhdpi\\ppppk.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_launch_round.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xhdpi\\launch_round.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ppppk_round.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-mdpi\\ppppk_round.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\anim_slide_in.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\anim\\slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ppppk_foreground.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-hdpi\\ppppk_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_launch_round.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxhdpi\\launch_round.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable_pppp_background.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\drawable\\pppp_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-hdpi_gal_foreground.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-hdpi\\gal_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ppppk_round.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxxhdpi\\ppppk_round.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_launch.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxxhdpi\\launch.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-mdpi_camera_icon.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\drawable-mdpi\\camera_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-hdpi_gal_round.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-hdpi\\gal_round.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\506d32460f3a7365e79ac3c5e16fad68\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ppppk_round.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxhdpi\\ppppk_round.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_pppp_round.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxxhdpi\\pppp_round.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\506d32460f3a7365e79ac3c5e16fad68\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable_roundedbutton.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\drawable\\roundedbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\506d32460f3a7365e79ac3c5e16fad68\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\6e54e8ae9b552357c230c2980ed0be52\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\xml_filepaths.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\xml\\filepaths.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-mdpi_launch.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-mdpi\\launch.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_camera_connection_fragment.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\layout\\camera_connection_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_activity_camera.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\6e54e8ae9b552357c230c2980ed0be52\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_gal_foreground.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xhdpi\\gal_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\6e54e8ae9b552357c230c2980ed0be52\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ppp.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxhdpi\\ppp.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_activity_list.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_gal.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxhdpi\\gal.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-mdpi_gal_round.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-mdpi\\gal_round.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-hdpi_launch_foreground.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-hdpi\\launch_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ppppk.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxxhdpi\\ppppk.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\6e54e8ae9b552357c230c2980ed0be52\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_cam.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xhdpi\\cam.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ppppk_round.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xhdpi\\ppppk_round.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\6e54e8ae9b552357c230c2980ed0be52\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\6e54e8ae9b552357c230c2980ed0be52\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ppppk_round.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-anydpi-v26\\ppppk_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_gal_foreground.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxhdpi\\gal_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_launch_foreground.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxhdpi\\launch_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_pppp.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-anydpi-v26\\pppp.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-hdpi_pppp.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-hdpi\\pppp.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\6e54e8ae9b552357c230c2980ed0be52\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\506d32460f3a7365e79ac3c5e16fad68\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_pppp_round.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxhdpi\\pppp_round.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_pppp.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxxhdpi\\pppp.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ppppk.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxhdpi\\ppppk.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable_ppppk_background.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\drawable\\ppppk_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-mdpi_pppp.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-mdpi\\pppp.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ppppk_round.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-hdpi\\ppppk_round.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_pppp_round.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xhdpi\\pppp_round.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\6e54e8ae9b552357c230c2980ed0be52\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\.gradle\\caches\\transforms-2\\files-2.1\\6e54e8ae9b552357c230c2980ed0be52\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable_blackout_transition.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\drawable\\blackout_transition.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_gal_round.xml.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-anydpi-v26\\gal_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ppp.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-hdpi\\ppp.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ppppk_foreground.png.flat",
+        "source": "C:\\Users\\KUNDAN\\Documents\\DogBreeds\\res\\mipmap-mdpi\\ppppk_foreground.png"
+    }
+]

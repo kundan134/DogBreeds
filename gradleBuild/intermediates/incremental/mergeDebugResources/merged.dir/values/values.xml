@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="breeds_array">
+        <item>Affenpinscher</item>
+        <item>Afghan Hound</item>
+        <item>African Hunting Dog</item>
+        <item>Airedale Terrier</item>
+        <item>American Staffordshire Terrier</item>
+        <item>Appenzeller Sennenhund</item>
+        <item>Australian Terrier</item>
+        <item>Basenji</item>
+        <item>Basset Hound</item>
+        <item>Beagle</item>
+        <item>Bedlington Terrier</item>
+        <item>Bernese Mountain Dog</item>
+        <item>Blenheim Spaniel</item>
+        <item>Bloodhound</item>
+        <item>Bluetick Coonhound</item>
+        <item>Border Collie</item>
+        <item>Border Terrier</item>
+        <item>Borzoi</item>
+        <item>Bouvier Des Flandres</item>
+        <item>Boxer (dog)</item>
+        <item>Griffon Bruxellois</item>
+        <item>Briard</item>
+        <item>Brittany Spaniel</item>
+        <item>Bullmastiff</item>
+        <item>Cairn Terrier</item>
+        <item>Cardigan Welsh Corgi</item>
+        <item>Chesapeake Bay Retriever</item>
+        <item>Chihuahua (dog)</item>
+        <item>Chow Chow</item>
+        <item>Clumber Spaniel</item>
+        <item>Flat-coated Retriever</item>
+        <item>Soft-coated Wheaten Terrier</item>
+        <item>Cocker Spaniel</item>
+        <item>Collie</item>
+        <item>Curly Coated Retriever</item>
+        <item>Dandie Dinmont Terrier</item>
+        <item>Dingo</item>
+        <item>Doberman</item>
+        <item>English Foxhound</item>
+        <item>English Setter</item>
+        <item>English Springer Spaniel</item>
+        <item>Entlebucher Mountain Dog</item>
+        <item>Eskimo Dog</item>
+        <item>French Bulldog</item>
+        <item>German Shepherd</item>
+        <item>Giant Schnauzer</item>
+        <item>Golden Retriever</item>
+        <item>Gordon Setter</item>
+        <item>Greater Swiss Mountain Dog</item>
+        <item>Great Dane</item>
+        <item>Great Pyrenees</item>
+        <item>Groenendael dog</item>
+        <item>Fox Terrier</item>
+        <item>German Shorthaired Pointer</item>
+        <item>Irish Setter</item>
+        <item>Irish Terrier</item>
+        <item>Irish Water Spaniel</item>
+        <item>Irish Wolfhound</item>
+        <item>Italian Greyhound</item>
+        <item>Japanese Chin</item>
+        <item>Keeshond</item>
+        <item>Kelpie</item>
+        <item>Kerry Blue Terrier</item>
+        <item>Komondor</item>
+        <item>Kuvasz</item>
+        <item>Labrador Retriever</item>
+        <item>Lakeland Terrier</item>
+        <item>Leonberger</item>
+        <item>Lhasa Apso</item>
+        <item>Dachshund</item>
+        <item>Alaskan Malamute</item>
+        <item>Malinois dog</item>
+        <item>Mexican Hairless Dog</item>
+        <item>Miniature Pinscher</item>
+        <item>Miniature Poodle</item>
+        <item>Miniature Schnauzer</item>
+        <item>Newfoundland dog</item>
+        <item>Norfolk Terrier</item>
+        <item>Norwegian Elkhound</item>
+        <item>Norwich Terrier</item>
+        <item>Old English Sheepdog</item>
+        <item>Otterhound</item>
+        <item>Papillon dog</item>
+        <item>Pekingese</item>
+        <item>Pembroke Welsh Corgi</item>
+        <item>Pomeranian</item>
+        <item>Pug</item>
+        <item>Redbone Coonhound</item>
+        <item>Rhodesian Ridgeback</item>
+        <item>Rottweiler</item>
+        <item>Boston Terrier</item>
+        <item>Dhole</item>
+        <item>Ibizan Hound</item>
+        <item>Maltese dog</item>
+        <item>Saint Bernard</item>
+        <item>Saluki</item>
+        <item>Samoyed dog</item>
+        <item>Schipperke</item>
+        <item>Scotch Terrier</item>
+        <item>Scottish Deerhound</item>
+        <item>Sealyham Terrier</item>
+        <item>Shetland Sheepdog</item>
+        <item>Siberian Husky</item>
+        <item>Silky Terrier</item>
+        <item>Staffordshire Bull Terrier</item>
+        <item>Standard Poodle</item>
+        <item>Standard Schnauzer</item>
+        <item>Sussex Spaniel</item>
+        <item>Black and Tan Coonhound</item>
+        <item>Tibetan Mastiff</item>
+        <item>Tibetan Terrier</item>
+        <item>Toy Poodle</item>
+        <item>English Toy Terrier (Black &amp; Tan)</item>
+        <item>Shih Tzu</item>
+        <item>Vizsla</item>
+        <item>Treeing Walker Coonhound</item>
+        <item>Weimaraner</item>
+        <item>Welsh Springer Spaniel</item>
+        <item>West Highland White Terrier</item>
+        <item>Whippet</item>
+        <item>Yorkshire Terrier</item>
+    </string-array>
+    <string-array name="file_names" translatable="false">
+        <item>affenpinscher.jpg</item>
+        <item>afghan_hound.jpg</item>
+        <item>african_hunting_dog.jpg</item>
+        <item>airedale_terrier.jpg</item>
+        <item>american_staffordshire_terrier.jpg</item>
+        <item>appenzeller_sennenhund.jpg</item>
+        <item>australian_terrier.jpg</item>
+        <item>basenji.jpg</item>
+        <item>basset_hound.jpg</item>
+        <item>beagle.jpg</item>
+        <item>bedlington_terrier.jpg</item>
+        <item>bernese_mountain_dog.jpg</item>
+        <item>blenheim_spaniel.jpg</item>
+        <item>bloodhound.jpg</item>
+        <item>bluetick_coonhound.jpg</item>
+        <item>border_collie.jpg</item>
+        <item>border_terrier.jpg</item>
+        <item>borzoi.jpg</item>
+        <item>bouvier_des_flandres.jpg</item>
+        <item>boxer_dog.jpg</item>
+        <item>brabancon_griffon.jpg</item>
+        <item>briard.jpg</item>
+        <item>brittany_spaniel.jpg</item>
+        <item>bull_mastiff.jpg</item>
+        <item>cairn_terrier.jpg</item>
+        <item>cardigan_welsh_corgi.jpg</item>
+        <item>chesapeake_bay_retriever.jpg</item>
+        <item>chihuahua_dog.jpg</item>
+        <item>chow_chow.jpg</item>
+        <item>clumber_spaniel.jpg</item>
+        <item>coated_retriever.jpg</item>
+        <item>coated_wheaten_terrier.jpg</item>
+        <item>cocker_spaniel.jpg</item>
+        <item>collie.jpg</item>
+        <item>curly_coated_retriever.jpg</item>
+        <item>dandie_dinmont_terrier.jpg</item>
+        <item>dingo.jpg</item>
+        <item>doberman.jpg</item>
+        <item>english_foxhound.jpg</item>
+        <item>english_setter.jpg</item>
+        <item>english_springer_spaniel.jpg</item>
+        <item>entlebucher_mountain_dog.jpg</item>
+        <item>eskimo_dog.jpg</item>
+        <item>french_bulldog.jpg</item>
+        <item>german_shepherd.jpg</item>
+        <item>giant_schnauzer.jpg</item>
+        <item>golden_retriever.jpg</item>
+        <item>gordon_setter.jpg</item>
+        <item>greater_swiss_mountain_dog.jpg</item>
+        <item>great_dane.jpg</item>
+        <item>great_pyrenees.jpg</item>
+        <item>groenendael_dog.jpg</item>
+        <item>haired_fox_terrier.jpg</item>
+        <item>haired_pointer.jpg</item>
+        <item>irish_setter.jpg</item>
+        <item>irish_terrier.jpg</item>
+        <item>irish_water_spaniel.jpg</item>
+        <item>irish_wolfhound.jpg</item>
+        <item>italian_greyhound.jpg</item>
+        <item>japanese_spaniel.jpg</item>
+        <item>keeshond.jpg</item>
+        <item>kelpie.jpg</item>
+        <item>kerry_blue_terrier.jpg</item>
+        <item>komondor.jpg</item>
+        <item>kuvasz.jpg</item>
+        <item>labrador_retriever.jpg</item>
+        <item>lakeland_terrier.jpg</item>
+        <item>leonberger.jpg</item>
+        <item>lhasa_apso.jpg</item>
+        <item>dachshund.jpg</item>
+        <item>malamute.jpg</item>
+        <item>malinois_dog.jpg</item>
+        <item>mexican_hairless_dog.jpg</item>
+        <item>miniature_pinscher.jpg</item>
+        <item>miniature_poodle.jpg</item>
+        <item>miniature_schnauzer.jpg</item>
+        <item>newfoundland_dog.jpg</item>
+        <item>norfolk_terrier.jpg</item>
+        <item>norwegian_elkhound.jpg</item>
+        <item>norwich_terrier.jpg</item>
+        <item>old_english_sheepdog.jpg</item>
+        <item>otterhound.jpg</item>
+        <item>papillon_dog.jpg</item>
+        <item>pekingese.jpg</item>
+        <item>pembroke_welsh_corgi.jpg</item>
+        <item>pomeranian.jpg</item>
+        <item>pug.jpg</item>
+        <item>redbone_coonhound.jpg</item>
+        <item>rhodesian_ridgeback.jpg</item>
+        <item>rottweiler.jpg</item>
+        <item>boston_terrier.jpg</item>
+        <item>dhole.jpg</item>
+        <item>ibizan_hound.jpg</item>
+        <item>maltese_dog.jpg</item>
+        <item>saint_bernard.jpg</item>
+        <item>saluki.jpg</item>
+        <item>samoyed_dog.jpg</item>
+        <item>schipperke.jpg</item>
+        <item>scotch_terrier.jpg</item>
+        <item>scottish_deerhound.jpg</item>
+        <item>sealyham_terrier.jpg</item>
+        <item>shetland_sheepdog.jpg</item>
+        <item>siberian_husky.jpg</item>
+        <item>silky_terrier.jpg</item>
+        <item>staffordshire_bull_terrier.jpg</item>
+        <item>standard_poodle.jpg</item>
+        <item>standard_schnauzer.jpg</item>
+        <item>sussex_spaniel.jpg</item>
+        <item>tan_coonhound.jpg</item>
+        <item>tibetan_mastiff.jpg</item>
+        <item>tibetan_terrier.jpg</item>
+        <item>toy_poodle.jpg</item>
+        <item>toy_terrier.jpg</item>
+        <item>shih_tzu.jpg</item>
+        <item>vizsla.jpg</item>
+        <item>walker_hound.jpg</item>
+        <item>weimaraner.jpg</item>
+        <item>welsh_springer_spaniel.jpg</item>
+        <item>west_highland_white_terrier.jpg</item>
+        <item>whippet.jpg</item>
+        <item>yorkshire_terrier.jpg</item>
+    </string-array>
+    <attr format="reference" name="coordinatorLayoutStyle"/>
+    <color name="black">#000</color>
+    <color name="notification_action_color_filter">#ffffffff</color>
+    <color name="notification_icon_bg_color">#ff9e9e9e</color>
+    <color name="notification_material_background_media_default_color">#ff424242</color>
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <color name="ripple_material_light">#1f000000</color>
+    <color name="secondary_text_default_material_dark">#b3ffffff</color>
+    <color name="secondary_text_default_material_light">#8a000000</color>
+    <color name="transparent">#1A000000</color>
+    <dimen name="compat_button_inset_horizontal_material">4dp</dimen>
+    <dimen name="compat_button_inset_vertical_material">6dp</dimen>
+    <dimen name="compat_button_padding_horizontal_material">8dp</dimen>
+    <dimen name="compat_button_padding_vertical_material">4dp</dimen>
+    <dimen name="compat_control_corner_material">2dp</dimen>
+    <dimen name="compat_notification_large_icon_max_height">320dp</dimen>
+    <dimen name="compat_notification_large_icon_max_width">320dp</dimen>
+    <dimen name="notification_action_icon_size">32dp</dimen>
+    <dimen name="notification_action_text_size">13sp</dimen>
+    <dimen name="notification_big_circle_margin">12dp</dimen>
+    <dimen name="notification_content_margin_start">8dp</dimen>
+    <dimen name="notification_large_icon_height">64dp</dimen>
+    <dimen name="notification_large_icon_width">64dp</dimen>
+    <dimen name="notification_main_column_padding_top">10dp</dimen>
+    <dimen name="notification_media_narrow_margin">@dimen/notification_content_margin_start</dimen>
+    <dimen name="notification_right_icon_size">16dp</dimen>
+    <dimen name="notification_right_side_padding_top">2dp</dimen>
+    <dimen name="notification_small_icon_background_padding">3dp</dimen>
+    <dimen name="notification_small_icon_size_as_large">24dp</dimen>
+    <dimen name="notification_subtext_size">13sp</dimen>
+    <dimen name="notification_top_pad">10dp</dimen>
+    <dimen name="notification_top_pad_large_text">5dp</dimen>
+    <dimen name="subtitle_corner_radius">2dp</dimen>
+    <dimen name="subtitle_outline_width">2dp</dimen>
+    <dimen name="subtitle_shadow_offset">2dp</dimen>
+    <dimen name="subtitle_shadow_radius">2dp</dimen>
+    <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
+    <drawable name="notification_template_icon_low_bg">#0cffffff</drawable>
+    <item name="line1" type="id"/>
+    <item name="line3" type="id"/>
+    <item name="tag_transition_group" type="id"/>
+    <item name="tag_unhandled_key_event_manager" type="id"/>
+    <item name="tag_unhandled_key_listeners" type="id"/>
+    <item name="text" type="id"/>
+    <item name="text2" type="id"/>
+    <item name="title" type="id"/>
+    <integer name="cancel_button_image_alpha">127</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+    <string name="about_menu">About</string>
+    <string name="about_message"><![CDATA[
+    <h1>Dog Breed identifier</h1>
+    <p>This app can identify the breed of a dog if the image of the dog is provided as input .</p>
+    <p>The app predicts the breed of a dog out of more than 125 known breeds with more than 93% accuracy.</p>
+    ]]></string>
+    <string name="activity_name_classification">Dog Breed identifier</string>
+    <string name="app_name">Dog Breed identifier</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="continuous_off">Off</string>
+    <string name="continuous_on">On</string>
+    <string name="error_tf_init">Out of Memory Error. Try closing a few background applications.</string>
+    <string name="exit_menu">Exit</string>
+    <string name="from_gallery">From Gallery..</string>
+    <string name="list_breeds">List of Breeds</string>
+    <string name="list_empty">There is no data</string>
+    <string name="no">No</string>
+    <string name="no_detection">Sorry! No Dog detected</string>
+    <string name="running_prediction">Analyzing picture..</string>
+    <string name="searchFor">Learn more about this breed!</string>
+    <string name="share_with">Share with..</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="yes">Yes</string>
+    <style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.StatusBar.EventContent"/>
+    <style name="TextAppearance.Compat.Notification.Info">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification.Info.Media"/>
+    <style name="TextAppearance.Compat.Notification.Line2" parent="TextAppearance.Compat.Notification.Info"/>
+    <style name="TextAppearance.Compat.Notification.Line2.Media" parent="TextAppearance.Compat.Notification.Info.Media"/>
+    <style name="TextAppearance.Compat.Notification.Media"/>
+    <style name="TextAppearance.Compat.Notification.Time">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification.Time.Media"/>
+    <style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/>
+    <style name="TextAppearance.Compat.Notification.Title.Media"/>
+    <style name="Widget.Compat.NotificationActionContainer" parent=""/>
+    <style name="Widget.Compat.NotificationActionText" parent=""/>
+    <style name="Widget.Support.CoordinatorLayout" parent="android:Widget">
+        <item name="statusBarBackground">#000000</item>
+    </style>
+    <declare-styleable name="ColorStateListItem">
+        <!-- Base color for this state. -->
+        <attr name="android:color"/>
+        <!-- Alpha multiplier applied to the base color. -->
+        <attr format="float" name="alpha"/>
+        <attr name="android:alpha"/>
+    </declare-styleable>
+    <declare-styleable name="CoordinatorLayout">
+        <!-- A reference to an array of integers representing the
+             locations of horizontal keylines in dp from the starting edge.
+             Child views can refer to these keylines for alignment using
+             layout_keyline="index" where index is a 0-based index into
+             this array. -->
+        <attr format="reference" name="keylines"/>
+        <!-- Drawable to display behind the status bar when the view is set to draw behind it. -->
+        <attr format="color|reference" name="statusBarBackground"/>
+    </declare-styleable>
+    <declare-styleable name="CoordinatorLayout_Layout">
+        <attr name="android:layout_gravity"/>
+        <!-- The class name of a Behavior class defining special runtime behavior
+             for this child view. -->
+        <attr format="string" name="layout_behavior"/>
+        <!-- The id of an anchor view that this view should position relative to. -->
+        <attr format="reference" name="layout_anchor"/>
+        <!-- The index of a keyline this view should position relative to.
+             android:layout_gravity will affect how the view aligns to the
+             specified keyline. -->
+        <attr format="integer" name="layout_keyline"/>
+
+        <!-- Specifies how an object should position relative to an anchor, on both the X and Y axes,
+             within its parent's bounds.  -->
+        <attr name="layout_anchorGravity">
+            <!-- Push object to the top of its container, not changing its size. -->
+            <flag name="top" value="0x30"/>
+            <!-- Push object to the bottom of its container, not changing its size. -->
+            <flag name="bottom" value="0x50"/>
+            <!-- Push object to the left of its container, not changing its size. -->
+            <flag name="left" value="0x03"/>
+            <!-- Push object to the right of its container, not changing its size. -->
+            <flag name="right" value="0x05"/>
+            <!-- Place object in the vertical center of its container, not changing its size. -->
+            <flag name="center_vertical" value="0x10"/>
+            <!-- Grow the vertical size of the object if needed so it completely fills its container. -->
+            <flag name="fill_vertical" value="0x70"/>
+            <!-- Place object in the horizontal center of its container, not changing its size. -->
+            <flag name="center_horizontal" value="0x01"/>
+            <!-- Grow the horizontal size of the object if needed so it completely fills its container. -->
+            <flag name="fill_horizontal" value="0x07"/>
+            <!-- Place the object in the center of its container in both the vertical and horizontal axis, not changing its size. -->
+            <flag name="center" value="0x11"/>
+            <!-- Grow the horizontal and vertical size of the object if needed so it completely fills its container. -->
+            <flag name="fill" value="0x77"/>
+            <!-- Additional option that can be set to have the top and/or bottom edges of
+                 the child clipped to its container's bounds.
+                 The clip will be based on the vertical gravity: a top gravity will clip the bottom
+                 edge, a bottom gravity will clip the top edge, and neither will clip both edges. -->
+            <flag name="clip_vertical" value="0x80"/>
+            <!-- Additional option that can be set to have the left and/or right edges of
+                 the child clipped to its container's bounds.
+                 The clip will be based on the horizontal gravity: a left gravity will clip the right
+                 edge, a right gravity will clip the left edge, and neither will clip both edges. -->
+            <flag name="clip_horizontal" value="0x08"/>
+            <!-- Push object to the beginning of its container, not changing its size. -->
+            <flag name="start" value="0x00800003"/>
+            <!-- Push object to the end of its container, not changing its size. -->
+            <flag name="end" value="0x00800005"/>
+        </attr>
+
+        <!-- Specifies how this view insets the CoordinatorLayout and make some other views
+             dodge it. -->
+        <attr format="enum" name="layout_insetEdge">
+            <!-- Don't inset. -->
+            <enum name="none" value="0x0"/>
+            <!-- Inset the top edge. -->
+            <enum name="top" value="0x30"/>
+            <!-- Inset the bottom edge. -->
+            <enum name="bottom" value="0x50"/>
+            <!-- Inset the left edge. -->
+            <enum name="left" value="0x03"/>
+            <!-- Inset the right edge. -->
+            <enum name="right" value="0x05"/>
+            <!-- Inset the start edge. -->
+            <enum name="start" value="0x00800003"/>
+            <!-- Inset the end edge. -->
+            <enum name="end" value="0x00800005"/>
+        </attr>
+        <!-- Specifies how this view dodges the inset edges of the CoordinatorLayout. -->
+        <attr name="layout_dodgeInsetEdges">
+            <!-- Don't dodge any edges -->
+            <flag name="none" value="0x0"/>
+            <!-- Dodge the top inset edge. -->
+            <flag name="top" value="0x30"/>
+            <!-- Dodge the bottom inset edge. -->
+            <flag name="bottom" value="0x50"/>
+            <!-- Dodge the left inset edge. -->
+            <flag name="left" value="0x03"/>
+            <!-- Dodge the right inset edge. -->
+            <flag name="right" value="0x05"/>
+            <!-- Dodge the start inset edge. -->
+            <flag name="start" value="0x00800003"/>
+            <!-- Dodge the end inset edge. -->
+            <flag name="end" value="0x00800005"/>
+            <!-- Dodge all the inset edges. -->
+            <flag name="all" value="0x77"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="FontFamily">
+        <!-- The authority of the Font Provider to be used for the request. -->
+        <attr format="string" name="fontProviderAuthority"/>
+        <!-- The package for the Font Provider to be used for the request. This is used to verify
+        the identity of the provider. -->
+        <attr format="string" name="fontProviderPackage"/>
+        <!-- The query to be sent over to the provider. Refer to your font provider's documentation
+        on the format of this string. -->
+        <attr format="string" name="fontProviderQuery"/>
+        <!-- The sets of hashes for the certificates the provider should be signed with. This is
+        used to verify the identity of the provider, and is only required if the provider is not
+        part of the system image. This value may point to one list or a list of lists, where each
+        individual list represents one collection of signature hashes. Refer to your font provider's
+        documentation for these values. -->
+        <attr format="reference" name="fontProviderCerts"/>
+        <!-- The strategy to be used when fetching font data from a font provider in XML layouts.
+        This attribute is ignored when the resource is loaded from code, as it is equivalent to the
+        choice of API between {@link
+    androidx.core.content.res.ResourcesCompat#getFont(Context, int)} (blocking) and
+        {@link
+    androidx.core.content.res.ResourcesCompat#getFont(Context, int, FontCallback, Handler)}
+        (async). -->
+        <attr name="fontProviderFetchStrategy">
+            <!-- The blocking font fetch works as follows.
+              First, check the local cache, then if the requested font is not cached, request the
+              font from the provider and wait until it is finished.  You can change the length of
+              the timeout by modifying fontProviderFetchTimeout.  If the timeout happens, the
+              default typeface will be used instead. -->
+            <enum name="blocking" value="0"/>
+            <!-- The async font fetch works as follows.
+              First, check the local cache, then if the requeted font is not cached, trigger a
+              request the font and continue with layout inflation. Once the font fetch succeeds, the
+              target text view will be refreshed with the downloaded font data. The
+              fontProviderFetchTimeout will be ignored if async loading is specified. -->
+            <enum name="async" value="1"/>
+        </attr>
+        <!-- The length of the timeout during fetching. -->
+        <attr format="integer" name="fontProviderFetchTimeout">
+            <!-- A special value for the timeout. In this case, the blocking font fetching will not
+              timeout and wait until a reply is received from the font provider. -->
+            <enum name="forever" value="-1"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="FontFamilyFont">
+        <!-- The style of the given font file. This will be used when the font is being loaded into
+         the font stack and will override any style information in the font's header tables. If
+         unspecified, the value in the font's header tables will be used. -->
+        <attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr>
+        <!-- The reference to the font file to be used. This should be a file in the res/font folder
+         and should therefore have an R reference value. E.g. @font/myfont -->
+        <attr format="reference" name="font"/>
+        <!-- The weight of the given font file. This will be used when the font is being loaded into
+         the font stack and will override any weight information in the font's header tables. Must
+         be a positive number, a multiple of 100, and between 100 and 900, inclusive. The most
+         common values are 400 for regular weight and 700 for bold weight. If unspecified, the value
+         in the font's header tables will be used. -->
+        <attr format="integer" name="fontWeight"/>
+        <!-- The variation settings to be applied to the font. The string should be in the following
+         format: "'tag1' value1, 'tag2' value2, ...". If the default variation settings should be
+         used, or the font used does not support variation settings, this attribute needs not be
+         specified. -->
+        <attr format="string" name="fontVariationSettings"/>
+        <!-- The index of the font in the tcc font file. If the font file referenced is not in the
+        tcc format, this attribute needs not be specified. -->
+        <attr format="integer" name="ttcIndex"/>
+        <!-- References to the framework attrs -->
+        <attr name="android:fontStyle"/>
+        <attr name="android:font"/>
+        <attr name="android:fontWeight"/>
+        <attr name="android:fontVariationSettings"/>
+        <attr name="android:ttcIndex"/>
+    </declare-styleable>
+    <declare-styleable name="GradientColor">
+        <!-- Start color of the gradient. -->
+        <attr name="android:startColor"/>
+        <!-- Optional center color. -->
+        <attr name="android:centerColor"/>
+        <!-- End color of the gradient. -->
+        <attr name="android:endColor"/>
+        <!-- Type of gradient. The default type is linear. -->
+        <attr name="android:type"/>
+
+        <!-- Only applied to RadialGradient-->
+        <!-- Radius of the gradient, used only with radial gradient. -->
+        <attr name="android:gradientRadius"/>
+
+        <!-- Only applied to SweepGradient / RadialGradient-->
+        <!-- X coordinate of the center of the gradient within the path. -->
+        <attr name="android:centerX"/>
+        <!-- Y coordinate of the center of the gradient within the path. -->
+        <attr name="android:centerY"/>
+
+        <!-- LinearGradient specific -->
+        <!-- X coordinate of the start point origin of the gradient.
+             Defined in same coordinates as the path itself -->
+        <attr name="android:startX"/>
+        <!-- Y coordinate of the start point of the gradient within the shape.
+             Defined in same coordinates as the path itself -->
+        <attr name="android:startY"/>
+        <!-- X coordinate of the end point origin of the gradient.
+             Defined in same coordinates as the path itself -->
+        <attr name="android:endX"/>
+        <!-- Y coordinate of the end point of the gradient within the shape.
+             Defined in same coordinates as the path itself -->
+        <attr name="android:endY"/>
+
+        <!-- Defines the tile mode of the gradient. SweepGradient doesn't support tiling. -->
+        <attr name="android:tileMode"/>
+    </declare-styleable>
+    <declare-styleable name="GradientColorItem">
+        <!-- The offset (or ratio) of this current color item inside the gradient.
+             The value is only meaningful when it is between 0 and 1. -->
+        <attr name="android:offset"/>
+        <!-- The current color for the offset inside the gradient. -->
+        <attr name="android:color"/>
+    </declare-styleable>
+</resources>

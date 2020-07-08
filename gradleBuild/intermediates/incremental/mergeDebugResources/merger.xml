@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.core:core:1.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.core:core:1.0.0" from-dependency="true" generated-set="androidx.core:core:1.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res"><file name="notification_bg" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\drawable\notification_bg.xml" qualifiers="" type="drawable"/><file name="notification_bg_low" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\drawable\notification_bg_low.xml" qualifiers="" type="drawable"/><file name="notification_icon_background" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\drawable\notification_icon_background.xml" qualifiers="" type="drawable"/><file name="notification_tile_bg" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\drawable\notification_tile_bg.xml" qualifiers="" type="drawable"/><file name="notification_bg_low_normal" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\drawable-hdpi-v4\notification_bg_low_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="notification_bg_low_pressed" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\drawable-hdpi-v4\notification_bg_low_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="notification_bg_normal" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\drawable-hdpi-v4\notification_bg_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="notification_bg_normal_pressed" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\drawable-hdpi-v4\notification_bg_normal_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="notify_panel_notification_icon_bg" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\drawable-hdpi-v4\notify_panel_notification_icon_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="notification_bg_low_normal" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\drawable-mdpi-v4\notification_bg_low_normal.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="notification_bg_low_pressed" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\drawable-mdpi-v4\notification_bg_low_pressed.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="notification_bg_normal" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\drawable-mdpi-v4\notification_bg_normal.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="notification_bg_normal_pressed" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\drawable-mdpi-v4\notification_bg_normal_pressed.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="notify_panel_notification_icon_bg" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\drawable-mdpi-v4\notify_panel_notification_icon_bg.png" qualifiers="mdpi-v4" type="drawable"/><file name="notification_action_background" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\drawable-v21\notification_action_background.xml" qualifiers="v21" type="drawable"/><file name="notification_bg_low_normal" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\drawable-xhdpi-v4\notification_bg_low_normal.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="notification_bg_low_pressed" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\drawable-xhdpi-v4\notification_bg_low_pressed.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="notification_bg_normal" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\drawable-xhdpi-v4\notification_bg_normal.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="notification_bg_normal_pressed" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\drawable-xhdpi-v4\notification_bg_normal_pressed.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="notify_panel_notification_icon_bg" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\drawable-xhdpi-v4\notify_panel_notification_icon_bg.png" qualifiers="xhdpi-v4" type="drawable"/><file name="notification_action" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\layout\notification_action.xml" qualifiers="" type="layout"/><file name="notification_action_tombstone" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\layout\notification_action_tombstone.xml" qualifiers="" type="layout"/><file name="notification_template_custom_big" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\layout\notification_template_custom_big.xml" qualifiers="" type="layout"/><file name="notification_template_icon_group" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\layout\notification_template_icon_group.xml" qualifiers="" type="layout"/><file name="notification_template_part_chronometer" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\layout\notification_template_part_chronometer.xml" qualifiers="" type="layout"/><file name="notification_template_part_time" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\layout\notification_template_part_time.xml" qualifiers="" type="layout"/><file name="notification_template_custom_big" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\layout-v16\notification_template_custom_big.xml" qualifiers="v16" type="layout"/><file name="notification_action" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\layout-v21\notification_action.xml" qualifiers="v21" type="layout"/><file name="notification_action_tombstone" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\layout-v21\notification_action_tombstone.xml" qualifiers="v21" type="layout"/><file name="notification_template_custom_big" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\layout-v21\notification_template_custom_big.xml" qualifiers="v21" type="layout"/><file name="notification_template_icon_group" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\layout-v21\notification_template_icon_group.xml" qualifiers="v21" type="layout"/><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values\values.xml" qualifiers=""><color name="notification_action_color_filter">#ffffffff</color><color name="notification_icon_bg_color">#ff9e9e9e</color><color name="ripple_material_light">#1f000000</color><color name="secondary_text_default_material_light">#8a000000</color><declare-styleable name="ColorStateListItem">
+        
+        <attr name="android:color"/>
+        
+        <attr format="float" name="alpha"/>
+        <attr name="android:alpha"/>
+    </declare-styleable><declare-styleable name="FontFamily">
+        
+        <attr format="string" name="fontProviderAuthority"/>
+        
+        <attr format="string" name="fontProviderPackage"/>
+        
+        <attr format="string" name="fontProviderQuery"/>
+        
+        <attr format="reference" name="fontProviderCerts"/>
+        
+        <attr name="fontProviderFetchStrategy">
+            
+            <enum name="blocking" value="0"/>
+            
+            <enum name="async" value="1"/>
+        </attr>
+        
+        <attr format="integer" name="fontProviderFetchTimeout">
+            
+            <enum name="forever" value="-1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="FontFamilyFont">
+        
+        <attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr>
+        
+        <attr format="reference" name="font"/>
+        
+        <attr format="integer" name="fontWeight"/>
+        
+        <attr format="string" name="fontVariationSettings"/>
+        
+        <attr format="integer" name="ttcIndex"/>
+        
+        <attr name="android:fontStyle"/>
+        <attr name="android:font"/>
+        <attr name="android:fontWeight"/>
+        <attr name="android:fontVariationSettings"/>
+        <attr name="android:ttcIndex"/>
+    </declare-styleable><declare-styleable name="GradientColor">
+        
+        <attr name="android:startColor"/>
+        
+        <attr name="android:centerColor"/>
+        
+        <attr name="android:endColor"/>
+        
+        <attr name="android:type"/>
+
+        
+        
+        <attr name="android:gradientRadius"/>
+
+        
+        
+        <attr name="android:centerX"/>
+        
+        <attr name="android:centerY"/>
+
+        
+        
+        <attr name="android:startX"/>
+        
+        <attr name="android:startY"/>
+        
+        <attr name="android:endX"/>
+        
+        <attr name="android:endY"/>
+
+        
+        <attr name="android:tileMode"/>
+    </declare-styleable><declare-styleable name="GradientColorItem">
+        
+        <attr name="android:offset"/>
+        
+        <attr name="android:color"/>
+    </declare-styleable><dimen name="compat_button_inset_horizontal_material">4dp</dimen><dimen name="compat_button_inset_vertical_material">6dp</dimen><dimen name="compat_button_padding_horizontal_material">8dp</dimen><dimen name="compat_button_padding_vertical_material">4dp</dimen><dimen name="compat_control_corner_material">2dp</dimen><dimen name="compat_notification_large_icon_max_height">320dp</dimen><dimen name="compat_notification_large_icon_max_width">320dp</dimen><dimen name="notification_action_icon_size">32dp</dimen><dimen name="notification_action_text_size">13sp</dimen><dimen name="notification_big_circle_margin">12dp</dimen><dimen name="notification_content_margin_start">8dp</dimen><dimen name="notification_large_icon_height">64dp</dimen><dimen name="notification_large_icon_width">64dp</dimen><dimen name="notification_main_column_padding_top">10dp</dimen><dimen name="notification_media_narrow_margin">@dimen/notification_content_margin_start</dimen><dimen name="notification_right_icon_size">16dp</dimen><dimen name="notification_right_side_padding_top">2dp</dimen><dimen name="notification_small_icon_background_padding">3dp</dimen><dimen name="notification_small_icon_size_as_large">24dp</dimen><dimen name="notification_subtext_size">13sp</dimen><dimen name="notification_top_pad">10dp</dimen><dimen name="notification_top_pad_large_text">5dp</dimen><drawable name="notification_template_icon_bg">#3333B5E5</drawable><drawable name="notification_template_icon_low_bg">#0cffffff</drawable><item name="line1" type="id"/><item name="line3" type="id"/><item name="tag_transition_group" type="id"/><item name="tag_unhandled_key_event_manager" type="id"/><item name="tag_unhandled_key_listeners" type="id"/><item name="text" type="id"/><item name="text2" type="id"/><item name="title" type="id"/><integer name="status_bar_notification_info_maxnum">999</integer><string name="status_bar_notification_info_overflow">999+</string><style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.StatusBar.EventContent"/><style name="TextAppearance.Compat.Notification.Info">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style><style name="TextAppearance.Compat.Notification.Line2" parent="TextAppearance.Compat.Notification.Info"/><style name="TextAppearance.Compat.Notification.Time">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style><style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/><style name="Widget.Compat.NotificationActionContainer" parent=""/><style name="Widget.Compat.NotificationActionText" parent=""/></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-af\values-af.xml" qualifiers="af"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-am\values-am.xml" qualifiers="am"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-ar\values-ar.xml" qualifiers="ar"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-as\values-as.xml" qualifiers="as"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"৯৯৯+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-az\values-az.xml" qualifiers="az"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-b+sr+Latn\values-b+sr+Latn.xml" qualifiers="b+sr+Latn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-be\values-be.xml" qualifiers="be"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-bg\values-bg.xml" qualifiers="bg"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-bn\values-bn.xml" qualifiers="bn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"৯৯৯+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-bs\values-bs.xml" qualifiers="bs"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-ca\values-ca.xml" qualifiers="ca"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-cs\values-cs.xml" qualifiers="cs"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-da\values-da.xml" qualifiers="da"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-de\values-de.xml" qualifiers="de"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-el\values-el.xml" qualifiers="el"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-en-rAU\values-en-rAU.xml" qualifiers="en-rAU"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-en-rCA\values-en-rCA.xml" qualifiers="en-rCA"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-en-rGB\values-en-rGB.xml" qualifiers="en-rGB"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-en-rIN\values-en-rIN.xml" qualifiers="en-rIN"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-en-rXC\values-en-rXC.xml" qualifiers="en-rXC"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‎‏‏‏‎‏‏‎‏‏‏‎‏‏‎‎‎‎‏‎‏‎‎‎‏‏‏‏‏‎‏‏‏‎‏‎‏‎‏‏‏‎‎‏‎‏‏‏‎‏‏‏‏‏‏‏‎‎‎‏‏‎999+‎‏‎‎‏‎"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-es\values-es.xml" qualifiers="es"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"+999"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-es-rUS\values-es-rUS.xml" qualifiers="es-rUS"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-et\values-et.xml" qualifiers="et"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-eu\values-eu.xml" qualifiers="eu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-fa\values-fa.xml" qualifiers="fa"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-fi\values-fi.xml" qualifiers="fi"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-fr\values-fr.xml" qualifiers="fr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-fr-rCA\values-fr-rCA.xml" qualifiers="fr-rCA"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-gl\values-gl.xml" qualifiers="gl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">">999"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-gu\values-gu.xml" qualifiers="gu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-hi\values-hi.xml" qualifiers="hi"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-hr\values-hr.xml" qualifiers="hr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-hu\values-hu.xml" qualifiers="hu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-hy\values-hy.xml" qualifiers="hy"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-in\values-in.xml" qualifiers="in"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-is\values-is.xml" qualifiers="is"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-it\values-it.xml" qualifiers="it"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-iw\values-iw.xml" qualifiers="iw"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-ja\values-ja.xml" qualifiers="ja"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-ka\values-ka.xml" qualifiers="ka"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-kk\values-kk.xml" qualifiers="kk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-km\values-km.xml" qualifiers="km"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-kn\values-kn.xml" qualifiers="kn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-ko\values-ko.xml" qualifiers="ko"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-ky\values-ky.xml" qualifiers="ky"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-lo\values-lo.xml" qualifiers="lo"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-lt\values-lt.xml" qualifiers="lt"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-lv\values-lv.xml" qualifiers="lv"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-mk\values-mk.xml" qualifiers="mk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-ml\values-ml.xml" qualifiers="ml"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-mn\values-mn.xml" qualifiers="mn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-mr\values-mr.xml" qualifiers="mr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"९९९+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-ms\values-ms.xml" qualifiers="ms"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-my\values-my.xml" qualifiers="my"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"၉၉၉+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-nb\values-nb.xml" qualifiers="nb"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-ne\values-ne.xml" qualifiers="ne"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"९९९+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-nl\values-nl.xml" qualifiers="nl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-or\values-or.xml" qualifiers="or"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-pa\values-pa.xml" qualifiers="pa"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-pl\values-pl.xml" qualifiers="pl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-pt\values-pt.xml" qualifiers="pt"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-pt-rBR\values-pt-rBR.xml" qualifiers="pt-rBR"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-pt-rPT\values-pt-rPT.xml" qualifiers="pt-rPT"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-ro\values-ro.xml" qualifiers="ro"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-ru\values-ru.xml" qualifiers="ru"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-si\values-si.xml" qualifiers="si"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-sk\values-sk.xml" qualifiers="sk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-sl\values-sl.xml" qualifiers="sl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-sq\values-sq.xml" qualifiers="sq"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-sr\values-sr.xml" qualifiers="sr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-sv\values-sv.xml" qualifiers="sv"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-sw\values-sw.xml" qualifiers="sw"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-ta\values-ta.xml" qualifiers="ta"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-te\values-te.xml" qualifiers="te"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-th\values-th.xml" qualifiers="th"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-tl\values-tl.xml" qualifiers="tl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-tr\values-tr.xml" qualifiers="tr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-uk\values-uk.xml" qualifiers="uk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-ur\values-ur.xml" qualifiers="ur"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"+999"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-uz\values-uz.xml" qualifiers="uz"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-v16\values-v16.xml" qualifiers="v16"><dimen name="notification_right_side_padding_top">4dp</dimen></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-v21\values-v21.xml" qualifiers="v21"><color name="notification_action_color_filter">@color/secondary_text_default_material_light</color><dimen name="notification_content_margin_start">0dp</dimen><dimen name="notification_main_column_padding_top">0dp</dimen><dimen name="notification_media_narrow_margin">12dp</dimen><style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.Material.Notification"/><style name="TextAppearance.Compat.Notification.Info" parent="@android:style/TextAppearance.Material.Notification.Info"/><style name="TextAppearance.Compat.Notification.Time" parent="@android:style/TextAppearance.Material.Notification.Time"/><style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.Material.Notification.Title"/><style name="Widget.Compat.NotificationActionContainer" parent="">
+        <item name="android:background">@drawable/notification_action_background</item>
+    </style><style name="Widget.Compat.NotificationActionText" parent="">
+        <item name="android:textAppearance">?android:attr/textAppearanceButton</item>
+        <item name="android:textColor">@color/secondary_text_default_material_light</item>
+        <item name="android:textSize">@dimen/notification_action_text_size</item>
+    </style></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-vi\values-vi.xml" qualifiers="vi"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-zh-rCN\values-zh-rCN.xml" qualifiers="zh-rCN"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-zh-rHK\values-zh-rHK.xml" qualifiers="zh-rHK"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-zh-rTW\values-zh-rTW.xml" qualifiers="zh-rTW"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\res\values-zu\values-zu.xml" qualifiers="zu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.coordinatorlayout:coordinatorlayout:1.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\d1b037659b54d4077a339f7231a5d2b9\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.coordinatorlayout:coordinatorlayout:1.0.0" from-dependency="true" generated-set="androidx.coordinatorlayout:coordinatorlayout:1.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\d1b037659b54d4077a339f7231a5d2b9\res"><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\d1b037659b54d4077a339f7231a5d2b9\res\values\values.xml" qualifiers=""><attr format="reference" name="coordinatorLayoutStyle"/><declare-styleable name="CoordinatorLayout">
+        
+        <attr format="reference" name="keylines"/>
+        
+        <attr format="color|reference" name="statusBarBackground"/>
+    </declare-styleable><declare-styleable name="CoordinatorLayout_Layout">
+        <attr name="android:layout_gravity"/>
+        
+        <attr format="string" name="layout_behavior"/>
+        
+        <attr format="reference" name="layout_anchor"/>
+        
+        <attr format="integer" name="layout_keyline"/>
+
+        
+        <attr name="layout_anchorGravity">
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr>
+
+        
+        <attr format="enum" name="layout_insetEdge">
+            
+            <enum name="none" value="0x0"/>
+            
+            <enum name="top" value="0x30"/>
+            
+            <enum name="bottom" value="0x50"/>
+            
+            <enum name="left" value="0x03"/>
+            
+            <enum name="right" value="0x05"/>
+            
+            <enum name="start" value="0x00800003"/>
+            
+            <enum name="end" value="0x00800005"/>
+        </attr>
+        
+        <attr name="layout_dodgeInsetEdges">
+            
+            <flag name="none" value="0x0"/>
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+            
+            <flag name="all" value="0x77"/>
+        </attr>
+    </declare-styleable><style name="Widget.Support.CoordinatorLayout" parent="android:Widget">
+        <item name="statusBarBackground">#000000</item>
+    </style></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.media:media:1.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\506d32460f3a7365e79ac3c5e16fad68\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.media:media:1.0.0" from-dependency="true" generated-set="androidx.media:media:1.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\506d32460f3a7365e79ac3c5e16fad68\res"><file name="notification_media_action" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\506d32460f3a7365e79ac3c5e16fad68\res\layout\notification_media_action.xml" qualifiers="" type="layout"/><file name="notification_media_cancel_action" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\506d32460f3a7365e79ac3c5e16fad68\res\layout\notification_media_cancel_action.xml" qualifiers="" type="layout"/><file name="notification_template_big_media" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\506d32460f3a7365e79ac3c5e16fad68\res\layout\notification_template_big_media.xml" qualifiers="" type="layout"/><file name="notification_template_big_media_custom" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\506d32460f3a7365e79ac3c5e16fad68\res\layout\notification_template_big_media_custom.xml" qualifiers="" type="layout"/><file name="notification_template_big_media_narrow" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\506d32460f3a7365e79ac3c5e16fad68\res\layout\notification_template_big_media_narrow.xml" qualifiers="" type="layout"/><file name="notification_template_big_media_narrow_custom" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\506d32460f3a7365e79ac3c5e16fad68\res\layout\notification_template_big_media_narrow_custom.xml" qualifiers="" type="layout"/><file name="notification_template_lines_media" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\506d32460f3a7365e79ac3c5e16fad68\res\layout\notification_template_lines_media.xml" qualifiers="" type="layout"/><file name="notification_template_media" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\506d32460f3a7365e79ac3c5e16fad68\res\layout\notification_template_media.xml" qualifiers="" type="layout"/><file name="notification_template_media_custom" path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\506d32460f3a7365e79ac3c5e16fad68\res\layout\notification_template_media_custom.xml" qualifiers="" type="layout"/><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\506d32460f3a7365e79ac3c5e16fad68\res\values\values.xml" qualifiers=""><color name="notification_material_background_media_default_color">#ff424242</color><color name="primary_text_default_material_dark">#ffffffff</color><color name="secondary_text_default_material_dark">#b3ffffff</color><dimen name="subtitle_corner_radius">2dp</dimen><dimen name="subtitle_outline_width">2dp</dimen><dimen name="subtitle_shadow_offset">2dp</dimen><dimen name="subtitle_shadow_radius">2dp</dimen><integer name="cancel_button_image_alpha">127</integer><style name="TextAppearance.Compat.Notification.Info.Media"/><style name="TextAppearance.Compat.Notification.Line2.Media" parent="TextAppearance.Compat.Notification.Info.Media"/><style name="TextAppearance.Compat.Notification.Media"/><style name="TextAppearance.Compat.Notification.Time.Media"/><style name="TextAppearance.Compat.Notification.Title.Media"/></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\506d32460f3a7365e79ac3c5e16fad68\res\values-v21\values-v21.xml" qualifiers="v21"><style name="TextAppearance.Compat.Notification.Info.Media">
+        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
+    </style><style name="TextAppearance.Compat.Notification.Media">
+        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
+    </style><style name="TextAppearance.Compat.Notification.Time.Media">
+        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
+    </style><style name="TextAppearance.Compat.Notification.Title.Media">
+        <item name="android:textColor">@color/primary_text_default_material_dark</item>
+    </style></file><file path="C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\506d32460f3a7365e79ac3c5e16fad68\res\values-v24\values-v24.xml" qualifiers="v24"><style name="TextAppearance.Compat.Notification.Info.Media"/><style name="TextAppearance.Compat.Notification.Media"/><style name="TextAppearance.Compat.Notification.Time.Media"/><style name="TextAppearance.Compat.Notification.Title.Media"/></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\KUNDAN\Documents\DogBreeds\res"/><source path="C:\Users\KUNDAN\Documents\DogBreeds\gradleBuild\generated\res\rs\debug"/><source path="C:\Users\KUNDAN\Documents\DogBreeds\gradleBuild\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\KUNDAN\Documents\DogBreeds\res"><file name="slide_in" path="C:\Users\KUNDAN\Documents\DogBreeds\res\anim\slide_in.xml" qualifiers="" type="anim"/><file name="slide_out" path="C:\Users\KUNDAN\Documents\DogBreeds\res\anim\slide_out.xml" qualifiers="" type="anim"/><file name="blackout_transition" path="C:\Users\KUNDAN\Documents\DogBreeds\res\drawable\blackout_transition.xml" qualifiers="" type="drawable"/><file name="button_background_selector" path="C:\Users\KUNDAN\Documents\DogBreeds\res\drawable\button_background_selector.xml" qualifiers="" type="drawable"/><file name="gal_background" path="C:\Users\KUNDAN\Documents\DogBreeds\res\drawable\gal_background.xml" qualifiers="" type="drawable"/><file name="ic_launcher_background" path="C:\Users\KUNDAN\Documents\DogBreeds\res\drawable\ic_launcher_background.xml" qualifiers="" type="drawable"/><file name="launch_background" path="C:\Users\KUNDAN\Documents\DogBreeds\res\drawable\launch_background.xml" qualifiers="" type="drawable"/><file name="ppppk_background" path="C:\Users\KUNDAN\Documents\DogBreeds\res\drawable\ppppk_background.xml" qualifiers="" type="drawable"/><file name="pppp_background" path="C:\Users\KUNDAN\Documents\DogBreeds\res\drawable\pppp_background.xml" qualifiers="" type="drawable"/><file name="roundedbutton" path="C:\Users\KUNDAN\Documents\DogBreeds\res\drawable\roundedbutton.xml" qualifiers="" type="drawable"/><file name="camera_icon" path="C:\Users\KUNDAN\Documents\DogBreeds\res\drawable-hdpi\camera_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\KUNDAN\Documents\DogBreeds\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="camera_icon" path="C:\Users\KUNDAN\Documents\DogBreeds\res\drawable-mdpi\camera_icon.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\KUNDAN\Documents\DogBreeds\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="camera_icon" path="C:\Users\KUNDAN\Documents\DogBreeds\res\drawable-xhdpi\camera_icon.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\KUNDAN\Documents\DogBreeds\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="camera_icon" path="C:\Users\KUNDAN\Documents\DogBreeds\res\drawable-xxhdpi\camera_icon.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\KUNDAN\Documents\DogBreeds\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_camera" path="C:\Users\KUNDAN\Documents\DogBreeds\res\layout\activity_camera.xml" qualifiers="" type="layout"/><file name="activity_list" path="C:\Users\KUNDAN\Documents\DogBreeds\res\layout\activity_list.xml" qualifiers="" type="layout"/><file name="camera_connection_fragment" path="C:\Users\KUNDAN\Documents\DogBreeds\res\layout\camera_connection_fragment.xml" qualifiers="" type="layout"/><file name="list_group" path="C:\Users\KUNDAN\Documents\DogBreeds\res\layout\list_group.xml" qualifiers="" type="layout"/><file name="list_item" path="C:\Users\KUNDAN\Documents\DogBreeds\res\layout\list_item.xml" qualifiers="" type="layout"/><file name="side_index_item" path="C:\Users\KUNDAN\Documents\DogBreeds\res\layout\side_index_item.xml" qualifiers="" type="layout"/><file name="mainmenu" path="C:\Users\KUNDAN\Documents\DogBreeds\res\menu\mainmenu.xml" qualifiers="" type="menu"/><file name="gal" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-anydpi-v26\gal.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="gal_round" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-anydpi-v26\gal_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-anydpi-v26\ic_launcher.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-anydpi-v26\ic_launcher_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="launch" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-anydpi-v26\launch.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="launch_round" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-anydpi-v26\launch_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="pppp" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-anydpi-v26\pppp.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ppppk" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-anydpi-v26\ppppk.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ppppk_round" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-anydpi-v26\ppppk_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="pppp_round" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-anydpi-v26\pppp_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="cam" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-hdpi\cam.png" qualifiers="hdpi-v4" type="mipmap"/><file name="gal" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-hdpi\gal.png" qualifiers="hdpi-v4" type="mipmap"/><file name="gal_foreground" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-hdpi\gal_foreground.png" qualifiers="hdpi-v4" type="mipmap"/><file name="gal_round" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-hdpi\gal_round.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-hdpi\ic_launcher_foreground.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-hdpi\ic_launcher_round.png" qualifiers="hdpi-v4" type="mipmap"/><file name="kk" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-hdpi\kk.png" qualifiers="hdpi-v4" type="mipmap"/><file name="launch" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-hdpi\launch.png" qualifiers="hdpi-v4" type="mipmap"/><file name="launch_foreground" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-hdpi\launch_foreground.png" qualifiers="hdpi-v4" type="mipmap"/><file name="launch_round" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-hdpi\launch_round.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ppp" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-hdpi\ppp.png" qualifiers="hdpi-v4" type="mipmap"/><file name="pppp" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-hdpi\pppp.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ppppk" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-hdpi\ppppk.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ppppk_foreground" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-hdpi\ppppk_foreground.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ppppk_round" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-hdpi\ppppk_round.png" qualifiers="hdpi-v4" type="mipmap"/><file name="pppp_round" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-hdpi\pppp_round.png" qualifiers="hdpi-v4" type="mipmap"/><file name="cam" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-mdpi\cam.png" qualifiers="mdpi-v4" type="mipmap"/><file name="gal" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-mdpi\gal.png" qualifiers="mdpi-v4" type="mipmap"/><file name="gal_foreground" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-mdpi\gal_foreground.png" qualifiers="mdpi-v4" type="mipmap"/><file name="gal_round" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-mdpi\gal_round.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-mdpi\ic_launcher_foreground.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-mdpi\ic_launcher_round.png" qualifiers="mdpi-v4" type="mipmap"/><file name="kk" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-mdpi\kk.png" qualifiers="mdpi-v4" type="mipmap"/><file name="launch" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-mdpi\launch.png" qualifiers="mdpi-v4" type="mipmap"/><file name="launch_foreground" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-mdpi\launch_foreground.png" qualifiers="mdpi-v4" type="mipmap"/><file name="launch_round" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-mdpi\launch_round.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ppp" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-mdpi\ppp.png" qualifiers="mdpi-v4" type="mipmap"/><file name="pppp" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-mdpi\pppp.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ppppk" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-mdpi\ppppk.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ppppk_foreground" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-mdpi\ppppk_foreground.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ppppk_round" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-mdpi\ppppk_round.png" qualifiers="mdpi-v4" type="mipmap"/><file name="pppp_round" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-mdpi\pppp_round.png" qualifiers="mdpi-v4" type="mipmap"/><file name="cam" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xhdpi\cam.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="gal" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xhdpi\gal.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="gal_foreground" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xhdpi\gal_foreground.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="gal_round" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xhdpi\gal_round.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xhdpi\ic_launcher_foreground.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xhdpi\ic_launcher_round.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="kk" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xhdpi\kk.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="launch" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xhdpi\launch.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="launch_foreground" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xhdpi\launch_foreground.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="launch_round" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xhdpi\launch_round.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ppp" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xhdpi\ppp.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="pppp" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xhdpi\pppp.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ppppk" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xhdpi\ppppk.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ppppk_foreground" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xhdpi\ppppk_foreground.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ppppk_round" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xhdpi\ppppk_round.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="pppp_round" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xhdpi\pppp_round.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="cam" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxhdpi\cam.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="gal" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxhdpi\gal.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="gal_foreground" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxhdpi\gal_foreground.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="gal_round" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxhdpi\gal_round.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxhdpi\ic_launcher_foreground.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxhdpi\ic_launcher_round.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="kk" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxhdpi\kk.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="launch" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxhdpi\launch.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="launch_foreground" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxhdpi\launch_foreground.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="launch_round" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxhdpi\launch_round.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ppp" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxhdpi\ppp.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="pppp" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxhdpi\pppp.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ppppk" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxhdpi\ppppk.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ppppk_foreground" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxhdpi\ppppk_foreground.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ppppk_round" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxhdpi\ppppk_round.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="pppp_round" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxhdpi\pppp_round.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="cam" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxxhdpi\cam.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="gal" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxxhdpi\gal.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="gal_foreground" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxxhdpi\gal_foreground.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="gal_round" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxxhdpi\gal_round.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxxhdpi\ic_launcher.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxxhdpi\ic_launcher_foreground.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxxhdpi\ic_launcher_round.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="kk" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxxhdpi\kk.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="launch" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxxhdpi\launch.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="launch_foreground" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxxhdpi\launch_foreground.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="launch_round" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxxhdpi\launch_round.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ppp" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxxhdpi\ppp.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="pppp" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxxhdpi\pppp.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ppppk" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxxhdpi\ppppk.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ppppk_foreground" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxxhdpi\ppppk_foreground.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ppppk_round" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxxhdpi\ppppk_round.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="pppp_round" path="C:\Users\KUNDAN\Documents\DogBreeds\res\mipmap-xxxhdpi\pppp_round.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file path="C:\Users\KUNDAN\Documents\DogBreeds\res\values\colors.xml" qualifiers=""><color name="transparent">#1A000000</color><color name="black">#000</color></file><file path="C:\Users\KUNDAN\Documents\DogBreeds\res\values\filenames.xml" qualifiers=""><string-array name="file_names" translatable="false">
+        <item>affenpinscher.jpg</item>
+        <item>afghan_hound.jpg</item>
+        <item>african_hunting_dog.jpg</item>
+        <item>airedale_terrier.jpg</item>
+        <item>american_staffordshire_terrier.jpg</item>
+        <item>appenzeller_sennenhund.jpg</item>
+        <item>australian_terrier.jpg</item>
+        <item>basenji.jpg</item>
+        <item>basset_hound.jpg</item>
+        <item>beagle.jpg</item>
+        <item>bedlington_terrier.jpg</item>
+        <item>bernese_mountain_dog.jpg</item>
+        <item>blenheim_spaniel.jpg</item>
+        <item>bloodhound.jpg</item>
+        <item>bluetick_coonhound.jpg</item>
+        <item>border_collie.jpg</item>
+        <item>border_terrier.jpg</item>
+        <item>borzoi.jpg</item>
+        <item>bouvier_des_flandres.jpg</item>
+        <item>boxer_dog.jpg</item>
+        <item>brabancon_griffon.jpg</item>
+        <item>briard.jpg</item>
+        <item>brittany_spaniel.jpg</item>
+        <item>bull_mastiff.jpg</item>
+        <item>cairn_terrier.jpg</item>
+        <item>cardigan_welsh_corgi.jpg</item>
+        <item>chesapeake_bay_retriever.jpg</item>
+        <item>chihuahua_dog.jpg</item>
+        <item>chow_chow.jpg</item>
+        <item>clumber_spaniel.jpg</item>
+        <item>coated_retriever.jpg</item>
+        <item>coated_wheaten_terrier.jpg</item>
+        <item>cocker_spaniel.jpg</item>
+        <item>collie.jpg</item>
+        <item>curly_coated_retriever.jpg</item>
+        <item>dandie_dinmont_terrier.jpg</item>
+        <item>dingo.jpg</item>
+        <item>doberman.jpg</item>
+        <item>english_foxhound.jpg</item>
+        <item>english_setter.jpg</item>
+        <item>english_springer_spaniel.jpg</item>
+        <item>entlebucher_mountain_dog.jpg</item>
+        <item>eskimo_dog.jpg</item>
+        <item>french_bulldog.jpg</item>
+        <item>german_shepherd.jpg</item>
+        <item>giant_schnauzer.jpg</item>
+        <item>golden_retriever.jpg</item>
+        <item>gordon_setter.jpg</item>
+        <item>greater_swiss_mountain_dog.jpg</item>
+        <item>great_dane.jpg</item>
+        <item>great_pyrenees.jpg</item>
+        <item>groenendael_dog.jpg</item>
+        <item>haired_fox_terrier.jpg</item>
+        <item>haired_pointer.jpg</item>
+        <item>irish_setter.jpg</item>
+        <item>irish_terrier.jpg</item>
+        <item>irish_water_spaniel.jpg</item>
+        <item>irish_wolfhound.jpg</item>
+        <item>italian_greyhound.jpg</item>
+        <item>japanese_spaniel.jpg</item>
+        <item>keeshond.jpg</item>
+        <item>kelpie.jpg</item>
+        <item>kerry_blue_terrier.jpg</item>
+        <item>komondor.jpg</item>
+        <item>kuvasz.jpg</item>
+        <item>labrador_retriever.jpg</item>
+        <item>lakeland_terrier.jpg</item>
+        <item>leonberger.jpg</item>
+        <item>lhasa_apso.jpg</item>
+        <item>dachshund.jpg</item>
+        <item>malamute.jpg</item>
+        <item>malinois_dog.jpg</item>
+        <item>mexican_hairless_dog.jpg</item>
+        <item>miniature_pinscher.jpg</item>
+        <item>miniature_poodle.jpg</item>
+        <item>miniature_schnauzer.jpg</item>
+        <item>newfoundland_dog.jpg</item>
+        <item>norfolk_terrier.jpg</item>
+        <item>norwegian_elkhound.jpg</item>
+        <item>norwich_terrier.jpg</item>
+        <item>old_english_sheepdog.jpg</item>
+        <item>otterhound.jpg</item>
+        <item>papillon_dog.jpg</item>
+        <item>pekingese.jpg</item>
+        <item>pembroke_welsh_corgi.jpg</item>
+        <item>pomeranian.jpg</item>
+        <item>pug.jpg</item>
+        <item>redbone_coonhound.jpg</item>
+        <item>rhodesian_ridgeback.jpg</item>
+        <item>rottweiler.jpg</item>
+        <item>boston_terrier.jpg</item>
+        <item>dhole.jpg</item>
+        <item>ibizan_hound.jpg</item>
+        <item>maltese_dog.jpg</item>
+        <item>saint_bernard.jpg</item>
+        <item>saluki.jpg</item>
+        <item>samoyed_dog.jpg</item>
+        <item>schipperke.jpg</item>
+        <item>scotch_terrier.jpg</item>
+        <item>scottish_deerhound.jpg</item>
+        <item>sealyham_terrier.jpg</item>
+        <item>shetland_sheepdog.jpg</item>
+        <item>siberian_husky.jpg</item>
+        <item>silky_terrier.jpg</item>
+        <item>staffordshire_bull_terrier.jpg</item>
+        <item>standard_poodle.jpg</item>
+        <item>standard_schnauzer.jpg</item>
+        <item>sussex_spaniel.jpg</item>
+        <item>tan_coonhound.jpg</item>
+        <item>tibetan_mastiff.jpg</item>
+        <item>tibetan_terrier.jpg</item>
+        <item>toy_poodle.jpg</item>
+        <item>toy_terrier.jpg</item>
+        <item>shih_tzu.jpg</item>
+        <item>vizsla.jpg</item>
+        <item>walker_hound.jpg</item>
+        <item>weimaraner.jpg</item>
+        <item>welsh_springer_spaniel.jpg</item>
+        <item>west_highland_white_terrier.jpg</item>
+        <item>whippet.jpg</item>
+        <item>yorkshire_terrier.jpg</item>
+    </string-array></file><file path="C:\Users\KUNDAN\Documents\DogBreeds\res\values\strings.xml" qualifiers=""><string name="app_name">Dog Breed identifier</string><string name="activity_name_classification">Dog Breed identifier</string><string name="camera_error">This device doesn\'t support Camera2 API.</string><string name="continuous_on">On</string><string name="continuous_off">Off</string><string name="from_gallery">From Gallery..</string><string name="about_message"><![CDATA[
+    <h1>Dog Breed identifier</h1>
+    <p>This app can identify the breed of a dog if the image of the dog is provided as input .</p>
+    <p>The app predicts the breed of a dog out of more than 125 known breeds with more than 93% accuracy.</p>
+    ]]></string><string name="about_menu">About</string><string name="exit_menu">Exit</string><string name="error_tf_init">Out of Memory Error. Try closing a few background applications.</string><string name="running_prediction">Analyzing picture..</string><string name="share_with">Share with..</string><string name="list_breeds">List of Breeds</string><string name="list_empty">There is no data</string><string name="searchFor">Learn more about this breed!</string><string name="no">No</string><string name="yes">Yes</string><string name="no_detection">Sorry! No Dog detected</string><string-array name="breeds_array">
+        <item>Affenpinscher</item>
+        <item>Afghan Hound</item>
+        <item>African Hunting Dog</item>
+        <item>Airedale Terrier</item>
+        <item>American Staffordshire Terrier</item>
+        <item>Appenzeller Sennenhund</item>
+        <item>Australian Terrier</item>
+        <item>Basenji</item>
+        <item>Basset Hound</item>
+        <item>Beagle</item>
+        <item>Bedlington Terrier</item>
+        <item>Bernese Mountain Dog</item>
+        <item>Blenheim Spaniel</item>
+        <item>Bloodhound</item>
+        <item>Bluetick Coonhound</item>
+        <item>Border Collie</item>
+        <item>Border Terrier</item>
+        <item>Borzoi</item>
+        <item>Bouvier Des Flandres</item>
+        <item>Boxer (dog)</item>
+        <item>Griffon Bruxellois</item>
+        <item>Briard</item>
+        <item>Brittany Spaniel</item>
+        <item>Bullmastiff</item>
+        <item>Cairn Terrier</item>
+        <item>Cardigan Welsh Corgi</item>
+        <item>Chesapeake Bay Retriever</item>
+        <item>Chihuahua (dog)</item>
+        <item>Chow Chow</item>
+        <item>Clumber Spaniel</item>
+        <item>Flat-coated Retriever</item>
+        <item>Soft-coated Wheaten Terrier</item>
+        <item>Cocker Spaniel</item>
+        <item>Collie</item>
+        <item>Curly Coated Retriever</item>
+        <item>Dandie Dinmont Terrier</item>
+        <item>Dingo</item>
+        <item>Doberman</item>
+        <item>English Foxhound</item>
+        <item>English Setter</item>
+        <item>English Springer Spaniel</item>
+        <item>Entlebucher Mountain Dog</item>
+        <item>Eskimo Dog</item>
+        <item>French Bulldog</item>
+        <item>German Shepherd</item>
+        <item>Giant Schnauzer</item>
+        <item>Golden Retriever</item>
+        <item>Gordon Setter</item>
+        <item>Greater Swiss Mountain Dog</item>
+        <item>Great Dane</item>
+        <item>Great Pyrenees</item>
+        <item>Groenendael dog</item>
+        <item>Fox Terrier</item>
+        <item>German Shorthaired Pointer</item>
+        <item>Irish Setter</item>
+        <item>Irish Terrier</item>
+        <item>Irish Water Spaniel</item>
+        <item>Irish Wolfhound</item>
+        <item>Italian Greyhound</item>
+        <item>Japanese Chin</item>
+        <item>Keeshond</item>
+        <item>Kelpie</item>
+        <item>Kerry Blue Terrier</item>
+        <item>Komondor</item>
+        <item>Kuvasz</item>
+        <item>Labrador Retriever</item>
+        <item>Lakeland Terrier</item>
+        <item>Leonberger</item>
+        <item>Lhasa Apso</item>
+        <item>Dachshund</item>
+        <item>Alaskan Malamute</item>
+        <item>Malinois dog</item>
+        <item>Mexican Hairless Dog</item>
+        <item>Miniature Pinscher</item>
+        <item>Miniature Poodle</item>
+        <item>Miniature Schnauzer</item>
+        <item>Newfoundland dog</item>
+        <item>Norfolk Terrier</item>
+        <item>Norwegian Elkhound</item>
+        <item>Norwich Terrier</item>
+        <item>Old English Sheepdog</item>
+        <item>Otterhound</item>
+        <item>Papillon dog</item>
+        <item>Pekingese</item>
+        <item>Pembroke Welsh Corgi</item>
+        <item>Pomeranian</item>
+        <item>Pug</item>
+        <item>Redbone Coonhound</item>
+        <item>Rhodesian Ridgeback</item>
+        <item>Rottweiler</item>
+        <item>Boston Terrier</item>
+        <item>Dhole</item>
+        <item>Ibizan Hound</item>
+        <item>Maltese dog</item>
+        <item>Saint Bernard</item>
+        <item>Saluki</item>
+        <item>Samoyed dog</item>
+        <item>Schipperke</item>
+        <item>Scotch Terrier</item>
+        <item>Scottish Deerhound</item>
+        <item>Sealyham Terrier</item>
+        <item>Shetland Sheepdog</item>
+        <item>Siberian Husky</item>
+        <item>Silky Terrier</item>
+        <item>Staffordshire Bull Terrier</item>
+        <item>Standard Poodle</item>
+        <item>Standard Schnauzer</item>
+        <item>Sussex Spaniel</item>
+        <item>Black and Tan Coonhound</item>
+        <item>Tibetan Mastiff</item>
+        <item>Tibetan Terrier</item>
+        <item>Toy Poodle</item>
+        <item>English Toy Terrier (Black &amp; Tan)</item>
+        <item>Shih Tzu</item>
+        <item>Vizsla</item>
+        <item>Treeing Walker Coonhound</item>
+        <item>Weimaraner</item>
+        <item>Welsh Springer Spaniel</item>
+        <item>West Highland White Terrier</item>
+        <item>Whippet</item>
+        <item>Yorkshire Terrier</item>
+    </string-array></file><file name="filepaths" path="C:\Users\KUNDAN\Documents\DogBreeds\res\xml\filepaths.xml" qualifiers="" type="xml"/></source><source path="C:\Users\KUNDAN\Documents\DogBreeds\gradleBuild\generated\res\rs\debug"/><source path="C:\Users\KUNDAN\Documents\DogBreeds\gradleBuild\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\KUNDAN\Documents\DogBreeds\build-types\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\KUNDAN\Documents\DogBreeds\build-types\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="CoordinatorLayout">
+        
+        <attr format="reference" name="keylines"/>
+        
+        <attr format="color|reference" name="statusBarBackground"/>
+    </declare-styleable><declare-styleable name="FontFamilyFont">
+        
+        <attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr>
+        
+        <attr format="reference" name="font"/>
+        
+        <attr format="integer" name="fontWeight"/>
+        
+        <attr format="string" name="fontVariationSettings"/>
+        
+        <attr format="integer" name="ttcIndex"/>
+        
+        <attr name="android:fontStyle"/>
+        <attr name="android:font"/>
+        <attr name="android:fontWeight"/>
+        <attr name="android:fontVariationSettings"/>
+        <attr name="android:ttcIndex"/>
+    </declare-styleable><declare-styleable name="GradientColorItem">
+        
+        <attr name="android:offset"/>
+        
+        <attr name="android:color"/>
+    </declare-styleable><declare-styleable name="FontFamily">
+        
+        <attr format="string" name="fontProviderAuthority"/>
+        
+        <attr format="string" name="fontProviderPackage"/>
+        
+        <attr format="string" name="fontProviderQuery"/>
+        
+        <attr format="reference" name="fontProviderCerts"/>
+        
+        <attr name="fontProviderFetchStrategy">
+            
+            <enum name="blocking" value="0"/>
+            
+            <enum name="async" value="1"/>
+        </attr>
+        
+        <attr format="integer" name="fontProviderFetchTimeout">
+            
+            <enum name="forever" value="-1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="CoordinatorLayout_Layout">
+        <attr name="android:layout_gravity"/>
+        
+        <attr format="string" name="layout_behavior"/>
+        
+        <attr format="reference" name="layout_anchor"/>
+        
+        <attr format="integer" name="layout_keyline"/>
+
+        
+        <attr name="layout_anchorGravity">
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr>
+
+        
+        <attr format="enum" name="layout_insetEdge">
+            
+            <enum name="none" value="0x0"/>
+            
+            <enum name="top" value="0x30"/>
+            
+            <enum name="bottom" value="0x50"/>
+            
+            <enum name="left" value="0x03"/>
+            
+            <enum name="right" value="0x05"/>
+            
+            <enum name="start" value="0x00800003"/>
+            
+            <enum name="end" value="0x00800005"/>
+        </attr>
+        
+        <attr name="layout_dodgeInsetEdges">
+            
+            <flag name="none" value="0x0"/>
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+            
+            <flag name="all" value="0x77"/>
+        </attr>
+    </declare-styleable><declare-styleable name="GradientColor">
+        
+        <attr name="android:startColor"/>
+        
+        <attr name="android:centerColor"/>
+        
+        <attr name="android:endColor"/>
+        
+        <attr name="android:type"/>
+
+        
+        
+        <attr name="android:gradientRadius"/>
+
+        
+        
+        <attr name="android:centerX"/>
+        
+        <attr name="android:centerY"/>
+
+        
+        
+        <attr name="android:startX"/>
+        
+        <attr name="android:startY"/>
+        
+        <attr name="android:endX"/>
+        
+        <attr name="android:endY"/>
+
+        
+        <attr name="android:tileMode"/>
+    </declare-styleable><declare-styleable name="ColorStateListItem">
+        
+        <attr name="android:color"/>
+        
+        <attr format="float" name="alpha"/>
+        <attr name="android:alpha"/>
+    </declare-styleable></configuration></mergedItems></merger>

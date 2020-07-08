@@ -1,0 +1,209 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:2:1-51:12
+MERGED from [org.tensorflow:tensorflow-android:1.8.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\90cc1c79c6b89b08fc984764f0c7182c\AndroidManifest.xml:2:1-8:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\3ba9877fd7a4da57ba8839199cf3910f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\506d32460f3a7365e79ac3c5e16fad68\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\95fbdf678c293fb3a85273a67c824dc7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\a8c20f56c37e7819d4e6e9688063702b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\f1389099432ea4b2c721f50038d9890c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\bb27c90479362fd66e46269e68f493f9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\17702cb0c1bdf4ac59c8615fe7075dc8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\d1b037659b54d4077a339f7231a5d2b9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\a80eccb010b13cb4ba72875f67053cb8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\faa10e53cdd2c43c80de802fc66a6c9d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6034ba9941dabe555feff3723f983c10\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\a4c944fa34e4cce865b039265edd1a78\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\55b69b07730615daea236e24b9092e73\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\9c09315f65f362e7aa3ce3e53cd36d4c\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\c0fe0fdb3e0a611158a60a68716015e5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\575524305914871c3f0ff12fc2460e11\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\cbb7220223f6924c8dfc3b23182585c5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\e21589e884d0adc2d440f3f6f057f5fb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\c666ccbb71d63685ac6389b8f06afe86\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\2fc9f48c3b3ca3a34f8c92ac6b5d6638\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\b1cc37d456ca44a15754f6c0d5cbba06\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\b00f335814405895367c4b5cf11170b8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\b31847d68aa069d1de1ab26ffcc2f885\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\3043bcd97dd25c89f938139e8e74ffa6\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:4:5-34
+		INJECTED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml
+		INJECTED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml
+		ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:2:1-51:12
+		INJECTED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml
+		ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:2:1-51:12
+		INJECTED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:6:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:9:5-11:31
+	tools:node
+		ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:11:9-28
+	android:name
+		ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:10:9-59
+uses-feature#android.hardware.camera
+ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:13:5-60
+	android:name
+		ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:13:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:14:5-70
+	android:name
+		ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:14:19-67
+application
+ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:16:5-49:19
+MERGED from [org.tensorflow:tensorflow-android:1.8.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\90cc1c79c6b89b08fc984764f0c7182c\AndroidManifest.xml:5:5-6:19
+MERGED from [org.tensorflow:tensorflow-android:1.8.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\90cc1c79c6b89b08fc984764f0c7182c\AndroidManifest.xml:5:5-6:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\9c09315f65f362e7aa3ce3e53cd36d4c\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\9c09315f65f362e7aa3ce3e53cd36d4c\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:19:9-45
+	android:icon
+		ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:18:9-34
+	android:allowBackup
+		ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:17:9-35
+provider#androidx.core.content.FileProvider
+ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:21:9-29:20
+	android:grantUriPermissions
+		ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:25:13-47
+	android:authorities
+		ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:23:13-67
+	android:exported
+		ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:22:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:26:13-28:53
+	android:resource
+		ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:28:17-50
+	android:name
+		ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:27:17-67
+activity#com.jstappdev.dbclf.ClassifierActivity
+ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:31:9-47:20
+	android:screenOrientation
+		ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:34:13-49
+	android:label
+		ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:33:13-49
+	android:name
+		ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:32:13-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:38:27-74
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:image/*
+ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:40:13-46:29
+action#android.intent.action.SEND
+ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:41:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:43:17-76
+	android:name
+		ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:43:27-73
+data
+ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:45:17-52
+	android:mimeType
+		ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:45:23-49
+activity#com.jstappdev.dbclf.SimpleListActivity
+ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:48:9-56
+	android:name
+		ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml:48:19-53
+uses-sdk
+INJECTED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml
+INJECTED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\3ba9877fd7a4da57ba8839199cf3910f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\3ba9877fd7a4da57ba8839199cf3910f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\506d32460f3a7365e79ac3c5e16fad68\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\506d32460f3a7365e79ac3c5e16fad68\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\95fbdf678c293fb3a85273a67c824dc7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\95fbdf678c293fb3a85273a67c824dc7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\a8c20f56c37e7819d4e6e9688063702b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\a8c20f56c37e7819d4e6e9688063702b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\f1389099432ea4b2c721f50038d9890c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\f1389099432ea4b2c721f50038d9890c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\bb27c90479362fd66e46269e68f493f9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\bb27c90479362fd66e46269e68f493f9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\17702cb0c1bdf4ac59c8615fe7075dc8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\17702cb0c1bdf4ac59c8615fe7075dc8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\d1b037659b54d4077a339f7231a5d2b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\d1b037659b54d4077a339f7231a5d2b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\a80eccb010b13cb4ba72875f67053cb8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\a80eccb010b13cb4ba72875f67053cb8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\faa10e53cdd2c43c80de802fc66a6c9d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\faa10e53cdd2c43c80de802fc66a6c9d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6034ba9941dabe555feff3723f983c10\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6034ba9941dabe555feff3723f983c10\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\a4c944fa34e4cce865b039265edd1a78\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\a4c944fa34e4cce865b039265edd1a78\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\55b69b07730615daea236e24b9092e73\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\55b69b07730615daea236e24b9092e73\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\6e54e8ae9b552357c230c2980ed0be52\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\9c09315f65f362e7aa3ce3e53cd36d4c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\9c09315f65f362e7aa3ce3e53cd36d4c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\c0fe0fdb3e0a611158a60a68716015e5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\c0fe0fdb3e0a611158a60a68716015e5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\575524305914871c3f0ff12fc2460e11\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\575524305914871c3f0ff12fc2460e11\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\cbb7220223f6924c8dfc3b23182585c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\cbb7220223f6924c8dfc3b23182585c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\e21589e884d0adc2d440f3f6f057f5fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\e21589e884d0adc2d440f3f6f057f5fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\c666ccbb71d63685ac6389b8f06afe86\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\c666ccbb71d63685ac6389b8f06afe86\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\2fc9f48c3b3ca3a34f8c92ac6b5d6638\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\2fc9f48c3b3ca3a34f8c92ac6b5d6638\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\b1cc37d456ca44a15754f6c0d5cbba06\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\b1cc37d456ca44a15754f6c0d5cbba06\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\b00f335814405895367c4b5cf11170b8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\b00f335814405895367c4b5cf11170b8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\b31847d68aa069d1de1ab26ffcc2f885\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\b31847d68aa069d1de1ab26ffcc2f885\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\3043bcd97dd25c89f938139e8e74ffa6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\KUNDAN\.gradle\caches\transforms-2\files-2.1\3043bcd97dd25c89f938139e8e74ffa6\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml
+INJECTED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml
+		ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml
+		INJECTED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml
+		ADDED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml
+		INJECTED from C:\Users\KUNDAN\Documents\DogBreeds\AndroidManifest.xml
