@@ -16,7 +16,7 @@ The app contains a list of the trained breeds and also the Wikipedia link to lea
 ## Requisites for running the app
 -	An android smartphone with Android version >=4.1 (Jelly Bean)
 -	The phone should have at least 50 MB memory and a reasonable amount of RAM.
--	The Phone should have camera feature.
+-	The Phone should have rear camera.
 
 ## To Run the project
 Follow the following steps sequentially to build and test the app:
